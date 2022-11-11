@@ -32,6 +32,8 @@ sudo service redis-server start
 ```
 pip install pika
 ```
+### Flow Control of Data 
 
+![Flow Control](https://user-images.githubusercontent.com/55001738/201382832-e6a87907-30a2-421c-a2be-f5f0db75cdab.png)
 
 
